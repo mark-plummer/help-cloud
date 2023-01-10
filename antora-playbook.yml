@@ -10,8 +10,8 @@ content:
     start_path: home
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
   # Cloud docs branches
-    branches: ['8.9.0.cl', '8.10.0.cl']
-    start_path: cloud/
+    branches: ['8.9.0.cl']
+    start_path: cloud/index-help
 urls:
   latest_version_segment_strategy: redirect:to
   latest_version_segment: latest
