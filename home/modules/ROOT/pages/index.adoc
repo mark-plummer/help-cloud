@@ -56,7 +56,7 @@ b, dt, strong, th {
 == {empty}
 ++++
 <div class="box-button-columns">
-  <div class="box-button"><a href="https://help-cloud-thoughtspot.netlify.app/cloud/8.9.0.cl" class="panel-2">
+  <div class="box-button"><a href="https://help-cloud-thoughtspot.netlify.app/cloud/latest" class="panel-2">
       <span><img src="_images/cloud.png" id="cloud-icon">
     <h2>
       Cloud
