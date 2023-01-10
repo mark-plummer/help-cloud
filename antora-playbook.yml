@@ -29,7 +29,6 @@ asciidoc:
   attributes:
     #software: true
     #cloud: false
-    help: ''
     page-company: ThoughtSpot
     tabs: tabs
     support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
