@@ -15,3 +15,9 @@ command = "node_modules/.bin/antora antora-playbook.yml --stacktrace --log-forma
 # redirect for home of sw and cloud docs
 
 # Algolia pendo search test redirect
+
+[[redirects]]
+  from = "https://help-cloud-thoughtspot.netlify.app/index"
+  to = "https://help-cloud-thoughtspot.netlify.app/index-help"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
