@@ -13,8 +13,8 @@ content:
     branches: ['8.9.0.cl','8.10.0.cl']
     start_path: cloud/
 urls:
-  latest_version_segment_strategy: redirect:to
-  latest_version_segment: latest
+#  latest_version_segment_strategy: redirect:to
+#  latest_version_segment: latest
   html_extension_style: drop
 ui:
   bundle:
