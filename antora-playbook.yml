@@ -27,9 +27,9 @@ ui:
     snapshot: true
 asciidoc:
   attributes:
-    #software: true
+    #software: true 
     #cloud: false
-    help: ''
+    help: true
     page-company: ThoughtSpot
     tabs: tabs
     support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
