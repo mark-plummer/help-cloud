@@ -1,2 +1,2 @@
 # help-cloud
-help content for ThoughtSpot Cloud
+Playbook repository for ThoughtSpot Cloud help content
