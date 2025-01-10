@@ -10,7 +10,7 @@ content:
     start_path: home
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
   # Cloud docs branches
-    branches: ['10.0.0.cl','10.1.0.cl','10.2.0.cl','10.3.0.cl','10.4.0.cl','10.5.0.cl']
+    branches: ['10.0.0.cl','10.1.0.cl','10.2.0.cl','10.3.0.cl','10.4.0.cl','10.5.0.cl','10.6.0.cl']
     start_path: cloud/
 ui:
   bundle:
